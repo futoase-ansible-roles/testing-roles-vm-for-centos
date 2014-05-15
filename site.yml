@@ -1,0 +1,9 @@
+---
+- hosts: vagrant-centos
+  sudo: yes
+  roles:
+    - basic-packages
+    - nginx
+    - mysql
+    - php
+    - python

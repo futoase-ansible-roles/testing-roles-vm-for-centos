@@ -1,0 +1,15 @@
+[submodule "roles/mysql"]
+	path = roles/mysql
+	url = https://github.com/futoase-ansible-roles/mysql.git
+[submodule "roles/nginx"]
+	path = roles/nginx
+	url = https://github.com/futoase-ansible-roles/nginx.git
+[submodule "roles/basic-packages"]
+	path = roles/basic-packages
+	url = https://github.com/futoase-ansible-roles/basic-packages.git
+[submodule "roles/php"]
+	path = roles/php
+	url = https://github.com/futoase-ansible-roles/php.git
+[submodule "roles/python"]
+	path = roles/python
+	url = https://github.com/futoase-ansible-roles/python.git
